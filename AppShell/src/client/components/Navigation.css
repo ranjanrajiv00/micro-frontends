@@ -1,0 +1,21 @@
+.app-navigation {
+    list-style: none;
+    padding: 0;
+}
+
+.app-navigation li {
+    display: inline-block;
+    padding: 0 20px 0 0;
+}
+
+.app-navigation li a {
+    line-height: 30px;
+    font-size: 16px;
+    text-decoration: none;
+    color: #333333;
+}
+
+.app-navigation li a:hover {
+    text-decoration: underline;
+    color: #32067a;
+}
